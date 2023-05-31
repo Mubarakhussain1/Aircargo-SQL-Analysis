@@ -1,2 +1,5 @@
 # Aircargo-SQL-Analysis
-Aircargo analysis using SQL
+
+Data Exploration and analysis using MySQL
+
+Functions Used : Create, Drop, Union, Group by, Order by, Aggregate functions, Procedures, Indexes, Window Functions, CTE's.
